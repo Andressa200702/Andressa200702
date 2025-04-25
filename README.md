@@ -1,4 +1,5 @@
-Olá, seja bem vindo ao meu GitHub! ❤
+<div align="center">
+<h2>Olá, seja bem vindo ao meu GitHub! ❤</h2>
 
 <picture>
   <source
