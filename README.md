@@ -1,4 +1,4 @@
-Olá, seja bem vindo aos meu GitHub! ❤
+Olá, seja bem vindo ao meu GitHub! ❤
 
 <!---
 Andressa200702/Andressa200702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
