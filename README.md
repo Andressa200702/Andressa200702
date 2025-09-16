@@ -22,18 +22,6 @@
     </picture>
   </div>
 
-  <!-- Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/andressa-xavier-2b393a271/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-    </a>
-    <a href="https://seuportfolio.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Portfolio" />
-    </a>
-  </p>
-
-</div>
-
 <div align="left" style="max-width: 600px; margin: 20px auto;">
   <h3>Sobre mim</h3>
   <p>
