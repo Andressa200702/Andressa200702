@@ -1,6 +1,7 @@
 <div align="center">
 
-  <h2>Olá, seja bem vindo ao meu GitHub! ❤</h2>
+  <h2>Olá, me chamo Andressa!
+    seja bem vindo ao meu GitHub! ❤</h2>
 
   <!-- GitHub Stats -->
   <div style="display: inline-block; text-align: center;">
@@ -51,21 +52,4 @@
     <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px"/>
   </p>
 
-  <div style="display: inline-block; text-align: center;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-        style="display: block; margin: 0 auto;"
-        alt="GitHub Stats"
-      />
-    </picture>
-  </div>
 
