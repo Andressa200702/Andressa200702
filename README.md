@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h2><p>Olá, me chamo Andressa!</p>
-   <p>Seja bem vindo ao meu GitHub! ❤</p></h2>
+  <h2><p>Olá, me chamo Andressa</p>
+   <p>Seja bem vindo ao meu GitHub! ❤👩‍💻</p></h2>
 
   <!-- GitHub Stats -->
   <div style="display: inline-block; text-align: center;">
