@@ -51,7 +51,7 @@
     <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px"/>
   </p>
 
-    <div style="display: inline-block; text-align: center;">
+  <div style="display: inline-block; text-align: center;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
