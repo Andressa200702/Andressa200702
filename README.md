@@ -6,7 +6,7 @@
 <div align="left" style="max-width: 600px; margin: 20px auto;">
    <h3>Sobre mim</h3>
   <p>
-    👨‍💻 Estudante de Tecnologia apaixonado por aprender e criar soluções.<br/>
+    👨‍💻 Estudante de Tecnologia apaixonada por aprender e criar soluções.<br/>
     📚 Conhecimentos em linguagens de marcação e desenvolvimento back-end.<br/>
     🗄️ Interesse especial em Banco de Dados.<br/>
     🗣️ Inglês intermediário.<br/>
